@@ -1,19 +1,19 @@
-# job 4 #
-#import string  #importation de la fonction string qui cpermet de manipuler des chaine de caractere #
+job 4 
+import string  #importation de la fonction string qui cpermet de manipuler des chaine de caractere #
 
-#alphabet = list(string.ascii_lowercase)  #constante qui contient toute les lettres de l'alphabet dans la fonction string#
+alphabet = list(string.ascii_lowercase)  #constante qui contient toute les lettres de l'alphabet dans la fonction string#
 
-#print(alphabet)#affichage de la list#
+print(alphabet)#affichage de la list#
 
-#import string
+import string
 
 
-# job 5 #
-#alphabet = list(string.ascii_lowercase)
+ job 5 #
+alphabet = list(string.ascii_lowercase)
 
-#alphabetinversé = alphabet [::-1]#prendre la liste en commencant par la fin avec "[::-1]"
+alphabetinversé = alphabet [::-1]#prendre la liste en commencant par la fin avec "[::-1]"
 
-#print(alphabetinversé)
+print(alphabetinversé)
  
 # job6 #
 #ma_string= "je suis une string"
